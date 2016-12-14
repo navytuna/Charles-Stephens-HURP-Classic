@@ -1,0 +1,97 @@
+_Update_
+{
+https://github.com/navytuna/Charles-Stephens/ || Link to the Github Repo I am using to store Charles Stephens
+(Note: Everything in () are OOC notes. Everything in {} is extra OOC formatting.)
+
+*Quotes:* 
+"And so the final moves are played out" - Charles after learning about the fall of Reach. These words were some of the few he spoke outside of standard military communication post-Reach until the unofficial end of the war occurred in early 2553.
+
+“Aer est amicus meus, sed contra te malum.” _The air is my friend, but it is your doom._
+
+*Theme:* One Final Effort: Halo 3 OST (https://www.youtube.com/watch?v=HIDR5ZBQBfo)
+}
+
+*Name:* Charles W. Stephens
+
+*Age:* 38
+
+
+*Service Number:* 19240-48513-CS
+
+*Date of Birth:*   5/16/2525 (Earth Standard Calender)
+
+*Race:*  Human
+
+*Faction:*  UNSC 
+
+*Rank:*  Master Sergeant [E-7] [UNSC Air Force]
+
+*Height:*  186.84 CM
+
+*Weight:*  74.78 KG
+
+*Build:*  Medium
+
+*Skin Color:*  Olive
+
+*Eye Color:*  Dark Brown
+
+*Hair Color:* Dark Brown
+
+*IQ:* 147-153
+
+*Intoxicated [EBAC .06-.3] IQ [Avg.]:* 63-87
+
+*Skills:*  Flying transport craft (Pelican, Albatross, Falcon, Phantom) Skilled with a M6 Series magnum (193 points on the current USMC scale {Source USMC Official website}), superb at data management programming languages (Modern day examples include PERL or Batch), proficient at programming object oriented languages (Modern day examples include Java and C++)
+
+*Known Languages:*
+English - The first language he learned
+Latin - The second language he learned. Not much abnormal to note.
+Sangheili 
+  Common Dialect - Learned, although he has a relatively limited vocabulary
+    Read - Forerunner based glyph system and Covenant Calligraphy (It is not stated in canon if Covenant Calligraphy is a modified script for the Sangheili, although it could be postulated that it is, as the characters used by weapons post-Halo 3 use a slightly different system of writing.)
+    Write - Charles can write in both systems, but he is much more proficient at Covennant Calligraphy.
+  Generalized Covenant Dialect - Not learned
+    Read - N/A
+    Write - N/A
+
+*Medical:* 
+Blood Type: B RH-
+Ethnicity: Hispanic
+Allergies: Peaches
+Gender: M
+DOB: 05/16/2525
+Mental Conditions [If any]: Asperger's Syndrome [Usually not noticable]
+Gene Sequence: [Restricted Access; Check CENTMED|E for access.]
+Mental Status: Stable; Combat approved.
+Physical Status: Stable; Combat approved.
+Other Notes: [None on file.]
+             
+*Equipment:*  TACPAD, hardened communications equipment, VISR capable HUD, IR [Passive] camera (Relayed to HUD), ruggedized laptop (6.1 GHz, 16GB RAM, 46 hour battery (Low power mode), Can survive up to 40 kJs/S and 50 kg/cm, 3 External hard-points (For attaching the laptop to equipment), Water-cooling, 4.3 nm EMP shielding)
+
+*Weapons:*
+   M6C/SOCOM “Honoris dimissione”
+       Modified to mount a collapsable skeletal stock and 3 recoil stabilization jets, mounted on the top and sides of the weapon. Received on 6/24/2551 as a parting gift from a friend who was in a part of the 29th Air Transport Division that was being redeployed to Reach [Friend’s status: KIA during the first portion of the attack on Reach.]. It received the moniker of “Honoris dimissione” when it killed an unsuspecting Sangheili at a range of approximately 351 meters, despite heavy wind [The logs for that event indicates that a ballistic computer Charles had procured earlier was used during this encounter. The wind was logged at 12 KM/H SSW from the firing position. The Sangheili’s rank is believed to be either a Zealot or a Major, but the image was unclear on it.].
+
+  MA5K "A Furore Egredietur"
+      This MA5K replaced his outdated and underpowered MA37 on 10/12/2563. It has been modified with a suppresor, an IR laser for use with VISR, 2 recoil stabilization jets, tighter rifling, a 6 lb trigger, and iron sights zeroed to 100m. It uses a 60 round double-stack magazine to double the typical ammunition capacity.
+
+*Personality:* Charles, as an Aspergian, is generally a loner. There are inherent exceptions to this rule of thumb, with people who are intellectuals being chief among them. [Other exceptions appear to be people with great skill, intelligence, or Honor (He adheres to the Sangheili code of honor that he found about after the war.)] Despite his wartime hatred for Sangheili, Charles has developed respect for members of the Swords of Sanghelios [Most likely cause for change in heart: Admirance of skill in combat and strategy.].
+  
+*Biography:*  
+Charles was born on Sigma Octanus IV on May 16th, 2525, to his father, Kevin Stephens, and his mother, Lauren Stephens. His father worked as a contractor for the UNSC and his mother worked as a HR head for the AMG division based there. On June 21st, 2543, he enlisted into the UNSC Air Force, full of a hope that he would not be stuck with a desk job like his parents. After he passed through basic training he was assigned to the 241st Air Wing, based on Reach and was assigned to a desk job. Eventually, after he paper-worked his way up to E-3, he managed to secure an examination for flight status. He was approved on July 11th, 2548
+
+*The Patrolling Years:*
+Charles Stephens and the 241st was redeployed to multiple outer colony refugee planets to maintain order as the UNSC steadily pulled back. After Admiral Cole's final stand, however, the 241st pulled back and dissolved into multiple smaller divisions that were distributed among Reach, the Inner Colonies, and Earth. Charles Stephens was assigned to the Earth Defense forces under the 29th Air Transport Division in the August of 2549.
+
+*The Battle for Earth:* 
+During the Battle for Earth transporting troops became a priority of the Air Force (Most Longsword/Shortsword Strike craft were commandeered by the Navy to try to counteract the massive losses sustained) and was one in which Charles partook in. The 29th Air Division was mobilized and deployed to Mombasa after the CAS class carrier Solemn Penance broke through the Navy’s defensive line. During the early portion of the engagement they deployed multiple Divisions of Marines and Army personnel to Old Mombasa and attempted to evacuate civilians from the city. The 29th were relieved from Mombasa by the 47th Air Cavalry and were immediately deployed to the Middle East theater of operations. The only ground engagement that he participated in whilst the battle occurred was the Battle for Sector 6 (Which, arguably, was one of the most important operations of the conflicts that occurred on and around Earth) after being shot down by a Banshee interceptor. One day after the Battle ended the 29th Air Transport division was reassigned to CASEVAC for the push on Voi and, when the Flood appeared, the evacuation of as many personnel and civilians who remained in the area as possible.
+
+*Post Covenant war:*
+2554: Assigned to Ballast for anti-insurrection ops. During these ops Charles had a confirmed body count of 31 hostiles due to an evacuation of the wounded from a car bombing turning into an ambush [7/24/2554]. 11 out of the 31 kills were made with his pistol, 7 out of the 31 with his assault weapon, and the remaining 13 with the chin gun on the Pelican before heavy fire made him put the Pelican down.
+2555: Both parents listed dead, with only Kevin’s corpse having been recovered, on Sigma Octanus IV after being listed as missing persons since the July of 2552. Charles attends their funeral service and is noticeably more distant to his fellow servicemen afterwards.
+2556: Assigned to Mars. Psych-Eval teams begin observing him to ensure that he does not become a liability. They stop observing around August of 2556, but keep him flagged to prevent an unnoticed change.
+2562: Assigned to Trost.
+
+*Trost:*
+On December 17th, 2562, Charles was deployed to the backwater (and surprisingly fortified) colony of Trost as part of the acquisition of 23 older D79H-TC Pelicans that were in the 29th Air Division. He participated in a few operations with the fireteam Tempest [Status: Deactivated, Pending new members for reactivation], but otherwise was not involved with the fighting taking place on the ground. On February 27th, 2563, a Promethean _Fortress_-Class ship exited slipspace above Trost, laying siege to the planet. Charles was idle until he was assigned to [All data related has been redacted.]. After the event Charles was assigned to multiple SAR missions, one of which went terribly wrong. During this mission Charles’ co-pilot was killed and the Pelican was shot down in a Promethean ambush that was near a staging facility for the assault on Alpha Base. The three survivors of the crash, Charles, Dysze, and Roger, set out for a [Redacted] that was around [Redacted] kilometers from the crash site. Charles had access to this [Redacted] due to the [Redacted], and spent 4 weeks hunkered down there after Alpha went nuclear. Once the radiation cleared enough the three survivors deployed on recovery missions to bring people to the Hovel, the temporary center for UNSC and SOS forces. During the three days of SAR the team was released from helping pick up stragglers, and was sent to the Hovel. Upon arrival Charles sent a request to command to form a SAR fireteam for extremely hot missions or other "unique" circumstances. The request was approved, although the fireteam (Callsign Osprey) was assigned a S-IV to assist in the groundside portion of operations. On 10/12/2563 Charles got a new set of armor that had been designed to different standards than the standard UNSCAF armor. With over 20 years of service to the UNSC he is likely going to retire or take some leave. Osprey's XO, Dysze 'Rottinai, is likely going to be taking some leave (or the Sangheili equivalent) soon, and it is likely that they will coordinate.
